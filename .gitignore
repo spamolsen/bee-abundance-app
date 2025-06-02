@@ -1,0 +1,40 @@
+# R data files
+*.RData
+*.rdata
+*.rda
+
+# R History files
+.Rhistory
+.Rapp.history
+
+# R user preferences
+.Ruserdata
+
+# R workspace files
+.Rproj.user
+*.Rproj
+
+# Shiny token
+rsconnect/
+
+# Environment variables
+.Renviron
+
+# Temporary files
+*.Rtmp
+*~
+
+# Output files
+*.pdf
+*.png
+*.jpg
+*.html
+
+# Mac files
+.DS_Store
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo

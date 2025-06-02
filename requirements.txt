@@ -1,0 +1,9 @@
+shiny
+mgcv
+readxl
+ggplot2
+dplyr
+gratia
+MASS
+DHARMa
+plotly
