@@ -31,9 +31,11 @@ rsconnect/
 
 # Output files
 *.pdf
-*.png
 *.jpg
 *.html
+
+# Allow PNG files in www directory
+!www/*.png
 
 # Mac files
 .DS_Store
