@@ -31,7 +31,8 @@ This Shiny application visualizes the results of Generalized Additive Mixed Mode
 
 ## Files Included
 - `app.R`: The main Shiny application
-- `publication_models.RData`: Pre-fitted GAM models
+- `publication_models.RData`: Pre-fitted GAM models for the published analysis
+- `all_variables_analyze_bees.R`: R script containing the complete analysis with all variables
 - `Final_SSO_ESA_Data.xlsx`: Data file for the analysis
 - `requirements.txt`: List of R package dependencies
 

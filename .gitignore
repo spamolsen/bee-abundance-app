@@ -1,7 +1,12 @@
 # R data files
+# Exclude all RData files by default
 *.RData
 *.rdata
 *.rda
+
+# But explicitly include our model files
+!publication_models.RData
+!all_variables_analyze_bees.R
 
 # R History files
 .Rhistory
